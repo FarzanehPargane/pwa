@@ -1,6 +1,6 @@
-importScripts('/assets/js/idb.min.js');
-importScripts('/assets/js/db.js');
-importScripts('/assets/js/myApi.js');
+importScripts('/js/idb.min.js');
+importScripts('/js/db.js');
+importScripts('/js/myApi.js');
 
 
 var GOOGLE_FONT_URL = 'https://fonts.gstatic.com';
